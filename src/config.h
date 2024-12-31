@@ -13,8 +13,7 @@ __device__ const int MAX_PATTERNS = 10;
 
 __device__ static char const *prefixes[] = {
 	"VORLD",
-	"Vorld",
-"VRLD,
+	"Vorld"
 };
 
 
